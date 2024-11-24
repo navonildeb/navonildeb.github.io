@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my personal website!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a fourth year PhD student in the Department of Statistics and Data Science at Cornell University, Ithaca, New York. Prior to my doctoral studies, I completed my Bachelor and Master in Statistics from Indian Statistical Institute Kolkata. I am interested in developing statistical methods to understand complex dependence structure in data arising in biology, neuroscience, finance and other disciplines. My methods involve statistical machine learning approaches involving time series methods, optimization techniques, causal inference, graphical models, high dimensional methods and spectral domain time series. Currently I am actively working in two areas: (1) developing fast and implementable coordinate-descent based algorithms for handling statistical optimization problems in Fourier domain, (2) counterfactual estimation and forecast techniques for longitudinal data with dynamic latent structures.
 
 A data-driven personal website
 ======
