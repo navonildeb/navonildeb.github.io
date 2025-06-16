@@ -4,22 +4,16 @@ title: "Publications"
 permalink: /publications/
 ---
 
-{% assign pubs = site.data.publications | sort: "year" | reverse %}
-{% for pub in pubs %}
+I list below some of my recent publications.  
 
-<div style="margin-bottom: 1.5em; padding-left: 1em; border-left: 3px solid #ccc;">
+### Fast algorithms for spectral graphical models  
+**Authors:** Navonil Deb, Jane Doe, John Smith  
+**Venue:** NeurIPS, 2024  
+[PDF](https://arxiv.org/pdf/1234.5678.pdf) | [Code](https://github.com/navonildeb/fast-spec-glasso) | [DOI](https://doi.org/10.1234/example)  
 
-### {{ pub.title }}
+---
 
-<p><strong>Authors:</strong> {{ pub.authors }}<br>
-<strong>Venue:</strong> {{ pub.venue }}</p>
-
-<p>
-  {% for link in pub.links %}
-  <a href="{{ link.url }}" target="_blank">[{{ link.name }}]</a>
-  {% endfor %}
-</p>
-
-</div>
-
-{% endfor %}
+### Counterfactual Forecasting for Panel Data  
+**Authors:** Navonil Deb, Alex Lee  
+**Venue:** Journal of Machine Learning Research, 2023  
+[PDF](https://arxiv.org/pdf/2345.6789.pdf)
