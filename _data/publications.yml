@@ -1,0 +1,19 @@
+- title: "Fast algorithms for spectral graphical models"
+  authors: "Navonil Deb, Jane Doe, John Smith"
+  venue: "NeurIPS, 2024"
+  links:
+    - name: PDF
+      url: "https://arxiv.org/pdf/1234.5678.pdf"
+    - name: Code
+      url: "https://github.com/navonildeb/fast-spec-glasso"
+    - name: DOI
+      url: "https://doi.org/10.1234/example"
+  year: 2024
+
+- title: "Counterfactual Forecasting for Panel Data"
+  authors: "Navonil Deb, Alex Lee"
+  venue: "Journal of Machine Learning Research, 2023"
+  links:
+    - name: PDF
+      url: "https://arxiv.org/pdf/2345.6789.pdf"
+  year: 2023
