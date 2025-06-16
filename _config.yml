@@ -170,9 +170,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  pages:
-    output: true
-    permalink: /:title/
+  #pages:
+  #  output: true
+  #  permalink: /:title/
 
 
 # These settings control how pages and collections are included in the site
