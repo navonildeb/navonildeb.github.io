@@ -13,7 +13,7 @@ Currently, I am actively working on:
 1. Developing fast, implementable coordinate descent algorithms for statistical optimization problems in the Fourier domain.  
 2. Designing methods for counterfactual estimation and forecasting in panel data with dynamic latent structures.
 
-Prior to my doctoral studies, I completed my Bachelor's and Master's degrees in Statistics from the Indian Statistical Institute, Kolkata.
+Prior to my doctoral studies, I completed my Bachelor's and Master's degrees in Statistics from Indian Statistical Institute, Kolkata.
 
 I am currently seeking postdoctoral positions starting in Fall 2026.
 
