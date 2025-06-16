@@ -7,11 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth year PhD student in the Department of Statistics and Data Science at Cornell University. I am interested in developing statistical methods to understand complex dependence structure in data arising in biology, neuroscience, finance and other disciplines. My research involve statistical machine learning methods involving time series, graphical models, high dimensional methods, optimization techniques and causal inference. Currently I am actively working in two areas: 
-1. Developing fast and implementable coordinate-descent based algorithms for statistical optimization problems in Fourier domain, 
-2. Counterfactual estimation and forecasting for panel data with dynamic latent structures. 
+I am a fifth-year Ph.D. student in the Department of Statistics and Data Science at Cornell University. My research focuses on developing statistical methods to understand complex dependence structures in data arising in biology, neuroscience, finance, and other disciplines. I primarily work on statistical machine learning approaches involving time series analysis, graphical models, high-dimensional inference, optimization techniques, and causal inference.
 
-Prior to my doctoral studies, I completed my Bachelor's and Master's degrees in Statistics from Indian Statistical Institute Kolkata.
+Currently, I am actively working on:
+1. Developing fast, implementable coordinate descent algorithms for statistical optimization problems in the Fourier domain.  
+2. Designing methods for counterfactual estimation and forecasting in panel data with dynamic latent structures.
 
-I am looking for postdoctorate positions starting Fall 2026.
+Prior to my doctoral studies, I completed my Bachelor's and Master's degrees in Statistics from the Indian Statistical Institute, Kolkata.
 
+I am currently seeking postdoctoral positions starting in Fall 2026.
+
+**Email:** nd329[at]cornell[dot]edu
