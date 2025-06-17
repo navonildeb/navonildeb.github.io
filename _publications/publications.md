@@ -13,3 +13,10 @@ You can find a full list of my work on [Google Scholar](https://scholar.google.c
 Regularized estimation of sparse spectral precision matrices.
 *arXiv [stat.ME]*  
 [https://doi.org/10.48550/arXiv.2401.11128](https://doi.org/10.48550/arXiv.2401.11128)  
+
+
+**Deb, N., Dalal, A., & Basak, G. K. (2020).**  
+Finding Optimal Cancer Treatment using Markov Decision Process to Improve Overall Health and Quality of Life.
+*arXiv [stat.ME]*  
+[https://doi.org/10.48550/arXiv.2011.13960](https://doi.org/10.48550/arXiv.2011.13960)  
+
