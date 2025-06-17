@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Navonil Deb's personal website"
+title                    : "Home"
 title_separator          : "-"
 name                     : "Navonil Deb"
 description              : &description "personal description"
