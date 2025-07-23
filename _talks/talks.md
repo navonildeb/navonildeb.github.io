@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-* Invited presentations
+** Invited presentations **
 
 - June 2025: Spring research conference 2025, Baruch College-CUNY!
 - Dec 2024: CMStatistics 2024 (online), King's college!
