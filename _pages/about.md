@@ -15,6 +15,4 @@ Currently, I am actively working on:
 
 Prior to my doctoral studies, I completed my Bachelor's and Master's degrees in Statistics from Indian Statistical Institute, Kolkata.
 
-I am currently seeking postdoctoral positions starting in Fall 2026.
-
 **Email:** nd329[at]cornell[dot]edu
