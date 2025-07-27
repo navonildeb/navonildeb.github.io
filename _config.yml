@@ -10,6 +10,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
+minimal_mistakes_skin    : "dark"
 name                     : "Navonil Deb"
 description              : &description "personal description"
 url                      : https://navonildeb.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
