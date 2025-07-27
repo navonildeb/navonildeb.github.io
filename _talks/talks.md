@@ -11,3 +11,10 @@ author_profile: true
 - Dec 2024: CMStatistics 2024 (online), King's college!
 - June 2023: NESS, Boston University!
 - May 2023: Conference on Advances in Time Series, UChicago Booth (Poster)!
+
+**Contributed presentations**
+
+- Aug 2024: IMS Congress, Bochum, Germany!
+- Aug 2023: JSM, Toronto!
+- Dec 2022: IISA, Bangalore!
+- Sep 2022: NBER-NSF Time Series Conference (selected poster), Boston University!
