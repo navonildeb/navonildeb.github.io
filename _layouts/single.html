@@ -35,7 +35,12 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'teaching' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "" | date: "" }} </p>
+          {% assign teaching_parts = "" | split: "" %}
+          {% if page.type %}{% assign teaching_parts = teaching_parts | push: page.type %}{% endif %}
+          {% if page.venue %}{% assign teaching_parts = teaching_parts | push: page.venue %}{% endif %}
+          {% if page.date %}{% assign teaching_parts = teaching_parts | push: page.date | date: "%Y" %}{% endif %}
+          <p>{{ teaching_parts | join: ", " }}</p>
+
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "" | date: "" }} </p>
         {% elsif page.date %}
