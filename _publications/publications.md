@@ -30,7 +30,7 @@ author_profile: true
 ## Working papers
 
 * <span style="font-weight:bold">Counterfactual forecasting for panel data (2025)</span><br>
-  <span style="color:#555">Navonil Deb, Raaz Dwivedi, Sumanta Basu</span><br>
+  <span style="color:#555"> **Navonil Deb**, Raaz Dwivedi, Sumanta Basu</span><br>
   <em>(Under review at AISTATS 2026)</em><br>
   <small>
   TL;DR – In mobile health studies, subjects’s responses depend not only on treatments but also on their past behavior. We design a flexible forecasting method that leverages these temporal patterns in latent factors to accurately forecast unobserved (counterfactual) outcomes in panel data.
@@ -43,7 +43,7 @@ author_profile: true
   </a>
 
 * <span style="font-weight:bold">Confidence intervals for high-dimensional sparse spectral precision matrices</span> <em>(In preparation)</em><br>
-  <span style="color:#555">Navonil Deb<sup>*</sup>, Younghoon Kim<sup>*</sup>, Amy Kuceyeski, Sumanta Basu</span>  
+  <span style="color:#555"> **Navonil Deb**<sup>*</sup>, Younghoon Kim<sup>*</sup>, Amy Kuceyeski, Sumanta Basu</span>  
   <small>( <sup>*</sup> equal contribution)</small><br>
   <em>(To be submitted to Biometrika)</em><br>
   <small>
@@ -55,7 +55,7 @@ author_profile: true
 ## Selected Earlier Works
 
 * <span style="font-weight:bold">Finding optimal cancer treatment using Markov decision process to improve overall health and quality of life (2020)</span><br>
-  <span style="color:#555">Navonil Deb, Abhinandan Dalal, Gopal Krishna Basak</span><br>
+  <span style="color:#555">**Navonil Deb**, Abhinandan Dalal, Gopal Krishna Basak</span><br>
   <small>
   TL;DR – Cancer care isn’t one-size-fits-all. A young patient might prioritize aggressive recovery, while an older individual might value comfort. This work proposes a Markov-decision-process framework that addresses the heterogeneity among treatement adopters and is equipped to tailor treatment decisions by balancing medical factors with each patient’s personal preferences.
   </small><br><br>
