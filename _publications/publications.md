@@ -57,7 +57,7 @@ author_profile: true
 * <span style="font-weight:bold">Finding optimal cancer treatment using Markov decision process to improve overall health and quality of life (2020)</span><br>
   <span style="color:#555">Navonil Deb, Abhinandan Dalal, Gopal Krishna Basak</span><br>
   <small>
-  Tl;dr – Cancer care isn’t one-size-fits-all. A young patient might prioritize aggressive recovery, while an older one might value comfort. This work proposes a Markov-decision-process framework equipped to tailor treatment decisions by balancing medical factors with each patient’s personal preferences.
+  Tl;dr – Cancer care isn’t one-size-fits-all. A young patient might prioritize aggressive recovery, while an older one might value comfort. This work proposes a Markov-decision-process framework that addresses the heterogeneity among treatement adopters and is equipped to tailor treatment decisions by balancing medical factors with each patient’s personal preferences.
   </small><br><br>
   <a href="https://doi.org/10.48550/arXiv.2011.13960">
     <img src="https://img.shields.io/badge/arXiv-2011.13960-b31b1b?logo=arxiv&logoColor=white" alt="arXiv" />
