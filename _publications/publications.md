@@ -18,7 +18,7 @@ author_profile: true
 
 Navonil Deb, Amy Kuceyeski, Sumanta Basu
 
-(To be submitted to *Anals of Statistics*)
+(To be submitted to *Annals of Statistics*)
 
 Tl;dr- Developed an adaptive estimation methodology of spectral precision matrices at fixed frequency with non-asymptotic guarantees in high dimension, equipped with a fast and scalable coordinate descent estimation algorithm by leveraging the structure of complex-valued omptimization problem.
 
