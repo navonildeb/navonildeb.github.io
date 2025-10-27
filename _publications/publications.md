@@ -64,5 +64,5 @@ author_profile: true
     <img src="https://img.shields.io/badge/arXiv-2011.13960-b31b1b?logo=arxiv&logoColor=white" alt="arXiv" />
   </a>
   <a href="https://github.com/navonildeb/MDP-and-QOL-in-Cancer-Treatment">
-    <img src="https://img.shields.io/badge/Code-MDP--QOL-181717?logo=github&logoColor=white" alt="Code" />
+    <img src="https://img.shields.io/badge/Code-MDP--QOL-181717?logo=github&logoColor=white" alt="R Code" />
   </a>
