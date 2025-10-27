@@ -44,7 +44,7 @@ author_profile: true
 
 * <span style="font-weight:bold">Confidence intervals for high-dimensional sparse spectral precision matrices</span> <em>(In preparation)</em><br>
   <span style="color:#555">Navonil Deb<sup>*</sup>, Younghoon Kim<sup>*</sup>, Amy Kuceyeski, Sumanta Basu</span>  
-  <small>(<sup>*</sup> equal contribution)</small><br>
+  <small>( <sup>*</sup> = equal contribution)</small><br>
   <em>(To be submitted to Biometrika)</em><br>
   <small>
   Tl;dr – Developed entry-wise confidence intervals for the entries of sparse spectral precision matrices of a stationary time series in high dimensions, enabling recovery of conditional graphs at a fixed frequency.
