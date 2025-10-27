@@ -33,7 +33,7 @@ author_profile: true
   <span style="color:#555">Navonil Deb, Raaz Dwivedi, Sumanta Basu</span><br>
   <em>(Under review at AISTATS 2026)</em><br>
   <small>
-  Tl;dr – Developed forecast algorithms for counterfactuals in a panel data with temporally correlated latent factors and general observation patterns.
+  Tl;dr – Developed a flexible forecasting algorithm for counterfactuals in a panel data with temporally correlated latent factors and general observation patterns.
   </small><br><br>
   <a href="/_publications/focus_preprint.pdf">
     <img src="https://img.shields.io/badge/Draft-PDF-8A2BE2?logo=adobeacrobatreader&logoColor=white" alt="Draft PDF" />
@@ -42,14 +42,15 @@ author_profile: true
     <img src="https://img.shields.io/badge/Code-FoCuS-181717?logo=github&logoColor=white" alt="Code Repository" />
   </a>
 
+* <span style="font-weight:bold">Confidence intervals for high-dimensional sparse spectral precision matrices</span> <em>(In preparation)</em><br>
+  <span style="color:#555">Navonil Deb<sup>*</sup>, Younghoon Kim<sup>*</sup>, Amy Kuceyeski, Sumanta Basu</span>  
+  <small>(<sup>*</sup> equal contribution)</small><br>
+  <em>(To be submitted to Biometrika)</em><br>
+  <small>
+  Tl;dr – Developed entry-wise confidence intervals for the entries of sparse spectral precision matrices of a stationary time series in high dimensions, enabling recovery of conditional graphs at a fixed frequency.
+  </small><br><br>
+  <img src="https://img.shields.io/badge/Status-In%20Preparation-lightgrey?logoColor=white" alt="In Preparation" />
 
-* **Confidence intervals for high dimensional sparse spectral precision matrices** (In preparation)
-
-Navonil Deb\*, Younghoon Kim\*, Amy Kuceyeski, Sumanta Basu (\* = equal contribution)
-
-Tl;dr- Developed entry-wise confidence intervals for the entries of sparse spectral precision matrix of a stationary time series in high dimensions, enabling recovery of conditional graphs at a fixed frequency.
-
-(To be submitted to *Biometrika*)
 
 
 ## Older Pre-prints
