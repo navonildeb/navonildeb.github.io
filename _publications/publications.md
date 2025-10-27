@@ -18,7 +18,7 @@ author_profile: true
   <span style="color:#555">Navonil Deb, Amy Kuceyeski, Sumanta Basu</span><br>
   <em>(To be submitted to Annals of Statistics)</em><br>
   <small>
-  TL;DR – In multivariate time series, conditional dependence structure among different components are captured by spectral precision matrices. Instances in neuroscience captures the functional connectivity of fMRI brain rhythms within certain frequency-band and generated from different brain regions. We develop an adaptive method to estimate spectral precision matrices at any frequency. Our work adjusts for heterogeneity in scale across time series components, provides theoretical error guarantees in high dimensions, and introduces a fast, scalable coordinate-descent algorithm tailored to the complex-valued setting.
+  TL;DR – In multivariate time series, conditional dependence structure among different components are captured by spectral precision matrices. Instances in neuroscience captures the functional connectivity of fMRI brain rhythms within certain frequency-band and generated from different brain regions. This work develops an adaptive method to estimate spectral precision matrices at any frequency. The proposed method adjusts for heterogeneity in scale across time series components. The authors provide theoretical error guarantees in high dimensions, and introduce a fast, scalable coordinate-descent algorithm tailored to the complex-valued setting.
   </small><br><br>
   <a href="https://doi.org/10.48550/arXiv.2401.11128">
     <img src="https://img.shields.io/badge/arXiv-2401.11128-b31b1b?logo=arxiv&logoColor=white" alt="arXiv" />
@@ -57,7 +57,7 @@ author_profile: true
 * <span style="font-weight:bold">Finding optimal cancer treatment using Markov decision process to improve overall health and quality of life (2020)</span><br>
   <span style="color:#555">Navonil Deb, Abhinandan Dalal, Gopal Krishna Basak</span><br>
   <small>
-  TL;DR – Cancer care isn’t one-size-fits-all. A young patient might prioritize aggressive recovery, while an older one might value comfort. This work proposes a Markov-decision-process framework that addresses the heterogeneity among treatement adopters and is equipped to tailor treatment decisions by balancing medical factors with each patient’s personal preferences.
+  TL;DR – Cancer care isn’t one-size-fits-all. A young patient might prioritize aggressive recovery, while an older individual might value comfort. This work proposes a Markov-decision-process framework that addresses the heterogeneity among treatement adopters and is equipped to tailor treatment decisions by balancing medical factors with each patient’s personal preferences.
   </small><br><br>
   <a href="https://doi.org/10.48550/arXiv.2011.13960">
     <img src="https://img.shields.io/badge/arXiv-2011.13960-b31b1b?logo=arxiv&logoColor=white" alt="arXiv" />
