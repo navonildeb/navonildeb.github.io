@@ -56,7 +56,6 @@ author_profile: true
 
 * <span style="font-weight:bold">Finding optimal cancer treatment using Markov decision process to improve overall health and quality of life (2020)</span><br>
   <span style="color:#555">Navonil Deb, Abhinandan Dalal, Gopal Krishna Basak</span><br>
-  <em>(Published as pre-print, 2020)</em><br>
   <small>
   Tl;dr – Proposed a Markov decision process framework to identify optimal cancer treatment strategies that maximize overall health and quality of life over time.
   </small><br><br>
