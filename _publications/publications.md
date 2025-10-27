@@ -22,7 +22,7 @@ Navonil Deb, Amy Kuceyeski, Sumanta Basu
 
 Tl;dr- Developed an adaptive estimation methodology of spectral precision matrices at fixed frequency with non-asymptotic guarantees in high dimension, equipped with a fast and scalable coordinate descent estimation algorithm by leveraging the structure of complex-valued omptimization problem.
 
-[Pre-print](https://doi.org/10.48550/arXiv.2401.11128) | [R Package](https://github.com/navonildeb/cxreg)
+[Pre-print](https://doi.org/10.48550/arXiv.2401.11128), [R Package](https://github.com/navonildeb/cxreg)
 
 
 ## Working papers
@@ -50,4 +50,4 @@ Tl;dr- Developed entry-wise confidence intervals for the entries of sparse spect
 
 Navonil Deb, Abhinandan Dalal, Gopal Krishna Basak (2020)
 
-[Pre-print](https://doi.org/10.48550/arXiv.2011.13960) | [Code](https://github.com/navonildeb/MDP-and-QOL-in-Cancer-Treatment)
+[Pre-print](https://doi.org/10.48550/arXiv.2011.13960), [Code](https://github.com/navonildeb/MDP-and-QOL-in-Cancer-Treatment)
