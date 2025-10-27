@@ -24,7 +24,7 @@ author_profile: true
     <img src="https://img.shields.io/badge/arXiv-2401.11128-b31b1b?logo=arxiv&logoColor=white" alt="arXiv" />
   </a>
   <a href="https://github.com/navonildeb/cxreg">
-    <img src="https://img.shields.io/badge/GitHub-cxreg-181717?logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-cxreg-181717?logo=github" alt="R Package" />
   </a>
 
 ## Working papers
