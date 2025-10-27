@@ -29,13 +29,19 @@ author_profile: true
 
 ## Working papers
 
-* **Counterfactual forecasting for panel data (2025)**  
+* <span style="font-weight:bold">Counterfactual forecasting for panel data (2025)</span><br>
+  <span style="color:#555">Navonil Deb, Raaz Dwivedi, Sumanta Basu</span><br>
+  <em>(Under review at AISTATS 2026)</em><br>
+  <small>
+  Tl;dr – Developed forecast algorithms for counterfactuals in a panel data with temporally correlated latent factors and general observation patterns.
+  </small><br><br>
+  <a href="/_publications/focus_preprint.pdf">
+    <img src="https://img.shields.io/badge/Draft-PDF-8A2BE2?logo=adobeacrobatreader&logoColor=white" alt="Draft PDF" />
+  </a>
+  <a href="https://github.com/navonildeb/focus">
+    <img src="https://img.shields.io/badge/Code-FoCuS-181717?logo=github&logoColor=white" alt="Code Repository" />
+  </a>
 
-Navonil Deb, Raaz Dwivedi, Sumanta Basu
-
-Tl;dr- Developed forecast algorithms for counterfactuals in a panel data with temporally correlated latent factors and general observation patterns.
-
-(Under review at *AISTATS 2026*)
 
 * **Confidence intervals for high dimensional sparse spectral precision matrices** (In preparation)
 
