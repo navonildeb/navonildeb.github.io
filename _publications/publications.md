@@ -15,7 +15,7 @@ author_profile: true
 ## Pre-prints
 
 * <span style="font-weight:bold">Regularized estimation of sparse spectral precision matrices (2024)</span><br>
-  <span style="color:#555">Navonil Deb, Amy Kuceyeski, Sumanta Basu</span><br>
+  <span style="color:#555"> **Navonil Deb**, Amy Kuceyeski, Sumanta Basu</span><br>
   <em>(To be submitted to Annals of Statistics)</em><br>
   <small>
   TL;DR – In multivariate time series, conditional dependence structure among different components are captured by spectral precision matrices. Instances in neuroscience captures the functional connectivity of fMRI brain rhythms within certain frequency-band and generated from different brain regions. This work develops an adaptive method to estimate spectral precision matrices at any frequency. The proposed method adjusts for heterogeneity in scale across time series components. The authors provide theoretical error guarantees in high dimensions, and introduce a fast, scalable coordinate-descent algorithm tailored to the complex-valued setting.
