@@ -14,16 +14,18 @@ author_profile: true
 
 ## Pre-prints
 
-* **Regularized estimation of sparse spectral precision matrices (2024)**
-
-Navonil Deb, Amy Kuceyeski, Sumanta Basu
-
-(To be submitted to *Annals of Statistics*)
-
-Tl;dr- Developed an adaptive estimation methodology of spectral precision matrices at fixed frequency with non-asymptotic guarantees in high dimension, equipped with a fast and scalable coordinate descent estimation algorithm by leveraging the structure of complex-valued omptimization problem.
-
-[Pre-print](https://doi.org/10.48550/arXiv.2401.11128), [R Package](https://github.com/navonildeb/cxreg)
-
+* <span style="font-weight:bold">Regularized estimation of sparse spectral precision matrices (2024)</span><br>
+  <span style="color:#555">Navonil Deb, Amy Kuceyeski, Sumanta Basu</span><br>
+  <em>(To be submitted to Annals of Statistics)</em><br>
+  <small>
+  Tl;dr – Developed an adaptive estimation methodology of spectral precision matrices at fixed frequency with non-asymptotic guarantees in high dimension, equipped with a fast and scalable coordinate-descent algorithm by leveraging the structure of the complex-valued optimization problem.
+  </small><br><br>
+  <a href="https://doi.org/10.48550/arXiv.2401.11128">
+    <img src="https://img.shields.io/badge/arXiv-2401.11128-b31b1b?logo=arxiv&logoColor=white" alt="arXiv" />
+  </a>
+  <a href="https://github.com/navonildeb/cxreg">
+    <img src="https://img.shields.io/badge/GitHub-cxreg-181717?logo=github" alt="GitHub" />
+  </a>
 
 ## Working papers
 
