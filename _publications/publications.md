@@ -52,10 +52,17 @@ author_profile: true
 
 
 
-## Older Pre-prints
+## Selected Earlier Works
 
-* **Finding optimal cancer treatment using Markov decision process to improve overall health and quality of life (2020)**
-
-Navonil Deb, Abhinandan Dalal, Gopal Krishna Basak (2020)
-
-[Pre-print](https://doi.org/10.48550/arXiv.2011.13960), [Code](https://github.com/navonildeb/MDP-and-QOL-in-Cancer-Treatment)
+* <span style="font-weight:bold">Finding optimal cancer treatment using Markov decision process to improve overall health and quality of life (2020)</span><br>
+  <span style="color:#555">Navonil Deb, Abhinandan Dalal, Gopal Krishna Basak</span><br>
+  <em>(Published as pre-print, 2020)</em><br>
+  <small>
+  Tl;dr – Proposed a Markov decision process framework to identify optimal cancer treatment strategies that maximize overall health and quality of life over time.
+  </small><br><br>
+  <a href="https://doi.org/10.48550/arXiv.2011.13960">
+    <img src="https://img.shields.io/badge/arXiv-2011.13960-b31b1b?logo=arxiv&logoColor=white" alt="arXiv" />
+  </a>
+  <a href="https://github.com/navonildeb/MDP-and-QOL-in-Cancer-Treatment">
+    <img src="https://img.shields.io/badge/Code-MDP--QOL-181717?logo=github&logoColor=white" alt="Code" />
+  </a>
