@@ -48,8 +48,7 @@ author_profile: true
   <em>(To be submitted to Biometrika)</em><br>
   <small>
   Tl;dr – Developed entry-wise confidence intervals for the entries of sparse spectral precision matrices of a stationary time series in high dimensions, enabling recovery of conditional graphs at a fixed frequency.
-  </small><br><br>
-  <img src="https://img.shields.io/badge/Status-In%20Preparation-lightgrey?logoColor=white" alt="In Preparation" />
+  </small><br><br>/>
 
 
 
