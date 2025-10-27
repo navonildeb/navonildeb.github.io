@@ -33,7 +33,7 @@ author_profile: true
   <span style="color:#555">Navonil Deb, Raaz Dwivedi, Sumanta Basu</span><br>
   <em>(Under review at AISTATS 2026)</em><br>
   <small>
-  Tl;dr – Developed a flexible forecasting algorithm for counterfactuals in a panel data with temporally correlated latent factors and general observation patterns.
+  Tl;dr – In mobile health studies, subjects’s responses depend not only on treatments but also on their past behavior. We design a flexible forecasting method that leverages these temporal patterns in latent factors to accurately forecast unobserved (counterfactual) outcomes in panel data.
   </small><br><br>
   <a href="/_publications/focus_preprint.pdf">
     <img src="https://img.shields.io/badge/Draft-PDF-8A2BE2?logo=adobeacrobatreader&logoColor=white" alt="Draft PDF" />
