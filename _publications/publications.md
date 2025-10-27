@@ -14,7 +14,7 @@ author_profile: true
 
 ## Pre-prints
 
-**Regularized estimation of sparse spectral precision matrices (2024)**
+* **Regularized estimation of sparse spectral precision matrices (2024)**
 
 Navonil Deb, Amy Kuceyeski, Sumanta Basu
 
@@ -27,7 +27,7 @@ Tl;dr- Developed an adaptive estimation methodology of spectral precision matric
 
 ## Working papers
 
-**Counterfactual forecasting for panel data (2025)**  
+* **Counterfactual forecasting for panel data (2025)**  
 
 Navonil Deb, Raaz Dwivedi, Sumanta Basu
 
@@ -35,7 +35,7 @@ Tl;dr- Developed forecast algorithms for counterfactuals in a panel data with te
 
 (Under review at *AISTATS 2026*)
 
-**Confidence intervals for high dimensional sparse spectral precision matrices** (In preparation)
+* **Confidence intervals for high dimensional sparse spectral precision matrices** (In preparation)
 
 Navonil Deb\*, Younghoon Kim\*, Amy Kuceyeski, Sumanta Basu (\* = equal contribution)
 
@@ -46,7 +46,7 @@ Tl;dr- Developed entry-wise confidence intervals for the entries of sparse spect
 
 ## Older Pre-prints
 
-**Finding optimal cancer treatment using Markov decision process to improve overall health and quality of life (2020)**
+* **Finding optimal cancer treatment using Markov decision process to improve overall health and quality of life (2020)**
 
 Navonil Deb, Abhinandan Dalal, Gopal Krishna Basak (2020)
 
