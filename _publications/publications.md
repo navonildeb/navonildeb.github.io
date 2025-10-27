@@ -18,7 +18,7 @@ author_profile: true
   <span style="color:#555">Navonil Deb, Amy Kuceyeski, Sumanta Basu</span><br>
   <em>(To be submitted to Annals of Statistics)</em><br>
   <small>
-  Tl;dr – Developed an adaptive estimation methodology of spectral precision matrices at fixed frequency with non-asymptotic guarantees in high dimension, equipped with a fast and scalable coordinate-descent algorithm by leveraging the structure of the complex-valued optimization problem.
+  Tl;dr – In time series, conditional dependence structure among different components are captured by spectral precision matrices. Instances in neuroscience captures the functional connectivity of fMRI brain rhythms within certain frequency-band and generated from different brain regions. We develop an adaptive method to estimate frequency-specific conditional dependence networks in multivariate time series. Our method adjusts for heterogeneity in scale across time series components, provides theoretical error guarantees in high dimensions, and introduces a fast, scalable coordinate-descent algorithm tailored to the complex-valued setting.
   </small><br><br>
   <a href="https://doi.org/10.48550/arXiv.2401.11128">
     <img src="https://img.shields.io/badge/arXiv-2401.11128-b31b1b?logo=arxiv&logoColor=white" alt="arXiv" />
