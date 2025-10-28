@@ -36,18 +36,27 @@ hide_title: false
   <small>
   TL;DR – In mobile health studies, subjects’ responses depend not only on treatments but also on their past behavior. We design a flexible forecasting method that leverages these temporal patterns in latent factors to accurately forecast unobserved (counterfactual) outcomes in panel data.
   </small><br><br>
+
+  <!-- Preprint -->
   <a href="/_publications/focus_preprint.pdf">
-    <img src="https://img.shields.io/badge/Draft-PDF-8A2BE2?logo=adobeacrobatreader&logoColor=white" alt="Draft PDF" />
+    <img src="https://img.shields.io/badge/Preprint-8A2BE2?logo=adobeacrobatreader&logoColor=white" alt="Preprint" />
   </a>
+
+  <!-- Code -->
   <a href="https://github.com/navonildeb/focus">
-    <img src="https://img.shields.io/badge/Code-FoCuS-181717?logo=github&logoColor=white" alt="Code Repository" />
+    <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=white" alt="Code Repository" />
   </a>
-  <a href="/_publications/jsm_presentation_v3.pdf">
-    <img src="https://img.shields.io/badge/Slides-PDF-0A66C2?logo=microsoftpowerpoint&logoColor=white" alt="Slides PDF" />
+
+  <!-- Slides -->
+  <a href="https://github.com/navonildeb/focus/blob/main/slides/FoCuS_slides.pdf">
+    <img src="https://img.shields.io/badge/Slides-0A66C2?logo=microsoftpowerpoint&logoColor=white" alt="Slides" />
   </a>
-  <a href="celebration_poster_final.pdf">
-    <img src="https://img.shields.io/badge/Poster-PDF-FF69B4?logo=adobeacrobatreader&logoColor=white" alt="Poster PDF" />
+
+  <!-- Poster -->
+  <a href="https://github.com/navonildeb/focus/blob/main/poster/FoCuS_poster.pdf">
+    <img src="https://img.shields.io/badge/Poster-FF69B4?logo=adobeacrobatreader&logoColor=white" alt="Poster" />
   </a>
+
 
 * <span style="font-weight:bold">Confidence intervals for high-dimensional sparse spectral precision matrices</span> <em>(In preparation)</em><br>
   <span style="color:#555"> **Navonil Deb**<sup>*</sup>, Younghoon Kim<sup>*</sup>, Amy Kuceyeski, Sumanta Basu</span>  
