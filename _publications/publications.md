@@ -21,9 +21,9 @@ hide_title: false
   <small>
   TL;DR – In multivariate time series, conditional dependence structure among different components are captured by spectral precision matrices. Instances in neuroscience capture the functional connectivity of fMRI brain rhythms within certain frequency bands and generated from different brain regions. This work develops an adaptive method to estimate spectral precision matrices at any frequency. The proposed method adjusts for heterogeneity in scale across time-series components. The authors provide theoretical error guarantees in high dimensions, and introduce a fast, scalable coordinate-descent algorithm tailored to the complex-valued setting.
   </small><br><br>
-
   <a href="https://doi.org/10.48550/arXiv.2401.11128"><img src="https://img.shields.io/badge/arXiv-b31b1b?logo=arxiv&logoColor=white" alt="arXiv" /></a>
   <a href="https://github.com/navonildeb/cxreg"><img src="https://img.shields.io/badge/R%20Package-276DC3?logo=r&logoColor=white" alt="R Package" /></a>
+  <a href="/_publications/sspm_slides.pdf"><img src="https://img.shields.io/badge/Slides-0A66C2?logo=microsoftpowerpoint&logoColor=white" alt="Slides" /></a>
 
 
 ## Working papers
