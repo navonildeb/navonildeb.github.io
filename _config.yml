@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Navonil Deb"
 title_separator          : "-"
 minimal_mistakes_skin    : "dark"
-name                     : "Navonil Deb"
+name                     : " "
 description              : &description "personal description"
 url                      : https://navonildeb.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
