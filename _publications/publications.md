@@ -37,25 +37,10 @@ hide_title: false
   TL;DR – In mobile health studies, subjects’ responses depend not only on treatments but also on their past behavior. We design a flexible forecasting method that leverages these temporal patterns in latent factors to accurately forecast unobserved (counterfactual) outcomes in panel data.
   </small><br><br>
 
-  <!-- Preprint -->
-  <a href="/_publications/focus_preprint.pdf">
-    <img src="https://img.shields.io/badge/Preprint-8A2BE2?logo=adobeacrobatreader&logoColor=white" alt="Draft" />
-  </a>
-
-  <!-- Code -->
-  <a href="https://github.com/navonildeb/focus">
-    <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=white" alt="Code Repository" />
-  </a>
-
-  <!-- Slides -->
-  <a href="https://github.com/navonildeb/focus/blob/main/slides/FoCuS_slides.pdf">
-    <img src="https://img.shields.io/badge/Slides-0A66C2?logo=microsoftpowerpoint&logoColor=white" alt="Slides" />
-  </a>
-
-  <!-- Poster -->
-  <a href="https://github.com/navonildeb/focus/blob/main/poster/FoCuS_poster.pdf">
-    <img src="https://img.shields.io/badge/Poster-FF69B4?logo=adobeacrobatreader&logoColor=white" alt="Poster" />
-  </a>
+  <a href="/_publications/focus_preprint.pdf"><img src="https://img.shields.io/badge/Draft-8A2BE2?logo=adobeacrobatreader&logoColor=white" alt="Draft" /></a>
+  <a href="https://github.com/navonildeb/focus"><img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=white" alt="Code Repository" /></a>
+  <a href="https://github.com/navonildeb/focus/blob/main/slides/FoCuS_slides.pdf"><img src="https://img.shields.io/badge/Slides-0A66C2?logo=microsoftpowerpoint&logoColor=white" alt="Slides" /></a>
+  <a href="https://github.com/navonildeb/focus/blob/main/poster/FoCuS_poster.pdf"><img src="https://img.shields.io/badge/Poster-FF69B4?logo=adobeacrobatreader&logoColor=white" alt="Poster" /></a>
 
 
 * <span style="font-weight:bold">Confidence intervals for high-dimensional sparse spectral precision matrices</span> <em>(In preparation)</em><br>
