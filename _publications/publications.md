@@ -23,7 +23,7 @@ hide_title: false
   </small><br><br>
   <a href="https://doi.org/10.48550/arXiv.2401.11128"><img src="https://img.shields.io/badge/arXiv-b31b1b?logo=arxiv&logoColor=white" alt="arXiv" /></a>
   <a href="https://github.com/navonildeb/cxreg"><img src="https://img.shields.io/badge/R%20Package-276DC3?logo=r&logoColor=white" alt="R Package" /></a>
-  <a href="/_publications/sspm_slides.pdf"><img src="https://img.shields.io/badge/Slides-0A66C2?logo=microsoftpowerpoint&logoColor=white" alt="Slides" /></a>
+  <a href="/files/sspm_slides.pdf"><img src="https://img.shields.io/badge/Slides-0A66C2?logo=microsoftpowerpoint&logoColor=white" alt="Slides" /></a>
 
 
 ## Working papers
@@ -35,10 +35,10 @@ hide_title: false
   TL;DR – In mobile health studies, subjects’ responses depend not only on treatments but also on their past behavior. We design a flexible forecasting method that leverages these temporal patterns in latent factors to accurately forecast unobserved (counterfactual) outcomes in panel data.
   </small><br><br>
 
-  <a href="/_publications/focus_preprint.pdf"><img src="https://img.shields.io/badge/Draft-8A2BE2?logo=adobeacrobatreader&logoColor=white" alt="Draft" /></a>
+  <a href="/files/focus_preprint.pdf"><img src="https://img.shields.io/badge/Draft-8A2BE2?logo=adobeacrobatreader&logoColor=white" alt="Draft" /></a>
   <a href="https://github.com/navonildeb/focus"><img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=white" alt="Code Repository" /></a>
-  <a href="/_publications/jsm_presentation_v3.pdf"><img src="https://img.shields.io/badge/Slides-0A66C2?logo=microsoftpowerpoint&logoColor=white" alt="Slides" /></a>
-  <a href="/_publications/celebration_poster_final.pdf"><img src="https://img.shields.io/badge/Poster-FF69B4?logo=adobeacrobatreader&logoColor=white" alt="Poster" /></a>
+  <a href="/files/focus_slides.pdf"><img src="https://img.shields.io/badge/Slides-0A66C2?logo=microsoftpowerpoint&logoColor=white" alt="Slides" /></a>
+  <a href="/files/focus_poster.pdf"><img src="https://img.shields.io/badge/Poster-FF69B4?logo=adobeacrobatreader&logoColor=white" alt="Poster" /></a>
 
 
 * <span style="font-weight:bold">Confidence intervals for high-dimensional sparse spectral precision matrices</span> <em>(In preparation)</em><br>
