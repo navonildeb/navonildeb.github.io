@@ -11,11 +11,11 @@ I am a fifth-year Ph.D. student in the Department of [Statistics and Data Scienc
 
 My research primarily focuses on developing statistical methodologies for analyzing complex, high-dimensional, and temporally dependent data. Such data—-arising in neuroscience, finance, policy evaluation, and many other domains—-exhibit intricate temporal and cross-sectional dependencies that challenge traditional methods for estimation, inference, and forecasting. I aim to make these dependencies learnable through statistically principled methodologies with theoretical guarantees and by building scalable algorithms. Broadly, my work bridges **Time-sereis Analysis**, **High-dimensional Statistics**, and **Causal Inference**, with the following specific directions:
 
-* Spectral-Domain Graphical Modeling
+* Graphical Modeling in Frequency Domain
 * Scalable Optimization Methods for High-Dimensional Problems
 * Forecasting Counterfactuals in Panel Data
 
-I additionally pursue interdisciplinary research on building predictive models for the body weight of endangered rhinoceroses using morphological data in small-sample settings, in collaboration with [Prof. Rovin Radcliffe](https://wildlife.cornell.edu/people/robin-radcliffe) at [College of Veterenary Medicine, Cornell University](https://www.vet.cornell.edu/). My research and publications can be found [here](https://navonildeb.github.io//publications/).
+I additionally pursue interdisciplinary research on building predictive models for the body weight of endangered rhinoceroses using morphological data in small-sample settings, in collaboration with [Prof. Robin Radcliffe](https://wildlife.cornell.edu/people/robin-radcliffe) at [College of Veterenary Medicine, Cornell University](https://www.vet.cornell.edu/). My research and publications can be found [here](https://navonildeb.github.io//publications/).
 
 I am actively looking for academic jobs in **Fall 2025**, and happy to connect if you are aware of any openings.
 
