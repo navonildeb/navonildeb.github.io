@@ -7,12 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. student in the Department of Statistics and Data Science at Cornell University. My research focuses on developing statistical methods to understand complex dependence structures in data arising in biology, neuroscience, finance, and other disciplines. I primarily work on statistical machine learning approaches involving time series analysis, graphical models, high-dimensional inference, optimization techniques, and causal inference.
+I am a fifth-year Ph.D. student in the Department of [Statistics and Data Science](https://stat.cornell.edu/) at [Bowers School of Computating and Information Science, Cornell University](https://bowers.cornell.edu/). I work in [Statistical Modeling of Compex Systems Lab](https://smocs.stat.cornell.edu/) where I am fortunate to be advised by [Prof. Sumanta Basu](https://sumbose.stat.cornell.edu/). I also closely collaborate with [Prof. Raaz Dweivedi](https://raazdwivedi.github.io/) at [Cornell Tech](https://tech.cornell.edu/). Prior to my doctoral studies, I completed my Bachelor's and Master's degrees in Statistics at [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/).
 
-Currently, I am actively working on:
-1. Developing fast, implementable coordinate descent algorithms for statistical optimization problems in the frequency domain time series. 
-2. Designing methods for counterfactual estimation and forecasting in panel data with dynamic latent structures.
+My research primarily focuses on developing statistical methodologies for analyzing complex, high-dimensional, and temporally dependent data. Such data—-arising in neuroscience, finance, policy evaluation, and many other domains—-exhibit intricate temporal and cross-sectional dependencies that challenge traditional methods for estimation, inference, and forecasting. I aim to make these dependencies learnable through statistically principled methodologies with theoretical guarantees and by building scalable algorithms. Broadly, my work bridges **Time-sereis Analysis**, **High-dimensional Statistics**, and **Causal Inference**, with the following specific directions:
 
-Prior to my doctoral studies, I completed my Bachelor's and Master's degrees in Statistics from Indian Statistical Institute, Kolkata.
+* Spectral-Domain Graphical Modeling
+* Scalable Optimization Methods for High-Dimensional Problems
+* Forecasting Counterfactuals in Panel Data
+
+I additionally pursue interdisciplinary research on building predictive models for the body weight of endangered rhinoceroses using morphological data in small-sample settings, in collaboration with [Prof. Rovin Radcliffe](https://wildlife.cornell.edu/people/robin-radcliffe) at [College of Veterenary Medicine, Cornell University](https://www.vet.cornell.edu/). My research and publications can be found [here](https://navonildeb.github.io//publications/).
+
+I am actively looking for academic jobs in **Fall 2025**, and happy to connect if you are aware of any openings.
 
 **Email:** nd329[at]cornell[dot]edu
