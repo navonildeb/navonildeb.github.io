@@ -39,8 +39,8 @@ hide_title: false
 
   <a href="/_publications/focus_preprint.pdf"><img src="https://img.shields.io/badge/Draft-8A2BE2?logo=adobeacrobatreader&logoColor=white" alt="Draft" /></a>
   <a href="https://github.com/navonildeb/focus"><img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=white" alt="Code Repository" /></a>
-  <a href="https://github.com/navonildeb/focus/blob/main/slides/FoCuS_slides.pdf"><img src="https://img.shields.io/badge/Slides-0A66C2?logo=microsoftpowerpoint&logoColor=white" alt="Slides" /></a>
-  <a href="https://github.com/navonildeb/focus/blob/main/poster/FoCuS_poster.pdf"><img src="https://img.shields.io/badge/Poster-FF69B4?logo=adobeacrobatreader&logoColor=white" alt="Poster" /></a>
+  <a href="/_publications/jsm_presentation_v3.pdf"><img src="https://img.shields.io/badge/Slides-0A66C2?logo=microsoftpowerpoint&logoColor=white" alt="Slides" /></a>
+  <a href="/_publications/celebration_poster_final.pdf"><img src="https://img.shields.io/badge/Poster-FF69B4?logo=adobeacrobatreader&logoColor=white" alt="Poster" /></a>
 
 
 * <span style="font-weight:bold">Confidence intervals for high-dimensional sparse spectral precision matrices</span> <em>(In preparation)</em><br>
