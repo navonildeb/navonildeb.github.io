@@ -7,10 +7,10 @@ author_profile: true
 
 ## Research Interests
 
-* Time series
-* Graphical models
-* Causal inference under dynamics in panel data
-* Optimization in high dimension
+* Time Series Analysis
+* Spectral-Domain Graphical Modeling
+* Scalable Optimization Methods for High-Dimensional Problems
+* Forecasting Counterfactuals in Panel Data
 
 ## Pre-prints
 
