@@ -39,7 +39,7 @@ hide_title: false
 
   <!-- Preprint -->
   <a href="/_publications/focus_preprint.pdf">
-    <img src="https://img.shields.io/badge/Preprint-8A2BE2?logo=adobeacrobatreader&logoColor=white" alt="Preprint" />
+    <img src="https://img.shields.io/badge/Preprint-8A2BE2?logo=adobeacrobatreader&logoColor=white" alt="Draft" />
   </a>
 
   <!-- Code -->
