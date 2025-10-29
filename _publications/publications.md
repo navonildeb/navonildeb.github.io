@@ -36,7 +36,7 @@ hide_title: false
   </small><br><br>
 
   <a href="/files/focus_preprint.pdf"><img src="https://img.shields.io/badge/Draft-8A2BE2?logo=adobeacrobatreader&logoColor=white" alt="Draft" /></a>
-  <a href="https://github.com/navonildeb/focus"><img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=white" alt="Code Repository" /></a>
+  <a href="https://github.com/navonildeb/FOCUS"><img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=white" alt="Code Repository" /></a>
   <a href="/files/focus_slides.pdf"><img src="https://img.shields.io/badge/Slides-0A66C2?logo=microsoftpowerpoint&logoColor=white" alt="Slides" /></a>
   <a href="/files/focus_poster.pdf"><img src="https://img.shields.io/badge/Poster-FF69B4?logo=adobeacrobatreader&logoColor=white" alt="Poster" /></a>
 
