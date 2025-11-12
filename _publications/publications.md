@@ -64,3 +64,23 @@ hide_title: false
   <a href="https://github.com/navonildeb/MDP-and-QOL-in-Cancer-Treatment">
     <img src="https://img.shields.io/badge/Code-MDP--QOL-181717?logo=github&logoColor=white" alt="Code" />
   </a>
+
+* <span style="font-weight:bold">Some Contributions to Inference and Model Selection in High Dimensional Statistics (2021)</span><br>
+  <span style="color:#555"><strong>Navonil Deb</strong>, Arijit Chakrabarti</span><br>
+  <small>
+  Masters dissertation.
+  </small><br><br>
+  <a href="/files/fDissertation.pdf">
+    <img src="https://img.shields.io/badge/PDF-Dissertation-003366?logo=readthedocs&logoColor=white" alt="PDF" />
+  </a>
+
+
+
+  * <span style="font-weight:bold">Some Contributions to Inference and Model Selection in High Dimensional Statistics (2021)</span><br>
+  <span style="color:#555"><strong>Navonil Deb</strong>, Arijit Chakrabarti</span><br>
+  <small>
+  Masters dissertation.
+  </small><br><br>
+  <a href="/files/fDissertation.pdf">
+    <img src="https://img.shields.io/badge/PDF-Dissertation-003366?logo=readthedocs&logoColor=white" alt="PDF" />
+  </a>
