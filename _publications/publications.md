@@ -70,7 +70,7 @@ hide_title: false
   <small>
   Masters dissertation.
   </small><br><br>
-  <a href="/files/fDissertation.pdf">
+  <a href="/files/Dissertation.pdf">
     <img src="https://img.shields.io/badge/PDF-Dissertation-003366?logo=readthedocs&logoColor=white" alt="PDF" />
   </a>
 
