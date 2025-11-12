@@ -26,20 +26,18 @@ hide_title: false
   <a href="/files/sspm_slides.pdf"><img src="https://img.shields.io/badge/Slides-0A66C2?logo=microsoftpowerpoint&logoColor=white" alt="Slides" /></a>
 
 
-## Working papers
-
 * <span style="font-weight:bold">Counterfactual forecasting for panel data (2025)</span><br>
   <span style="color:#555"> **Navonil Deb**, Raaz Dwivedi, Sumanta Basu</span><br>
   <em>(Under review at AISTATS 2026)</em><br>
   <small>
   TL;DR – In mobile health studies, subjects’ responses depend not only on treatments but also on their past behavior. We design a flexible forecasting method that leverages these temporal patterns in latent factors to accurately forecast unobserved (counterfactual) outcomes in panel data.
   </small><br><br>
-
-  <a href="/files/focus_preprint.pdf"><img src="https://img.shields.io/badge/Draft-8A2BE2?logo=adobeacrobatreader&logoColor=white" alt="Draft" /></a>
+  <a href="https://doi.org/10.48550/arXiv:2511.061898"><img src="https://img.shields.io/badge/arXiv-b31b1b?logo=arxiv&logoColor=white" alt="arXiv" /></a>
   <a href="https://github.com/navonildeb/FOCUS"><img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=white" alt="Code Repository" /></a>
   <a href="/files/focus_slides.pdf"><img src="https://img.shields.io/badge/Slides-0A66C2?logo=microsoftpowerpoint&logoColor=white" alt="Slides" /></a>
   <a href="/files/focus_poster.pdf"><img src="https://img.shields.io/badge/Poster-FF69B4?logo=adobeacrobatreader&logoColor=white" alt="Poster" /></a>
 
+## Working papers
 
 * <span style="font-weight:bold">Confidence intervals for high-dimensional sparse spectral precision matrices</span> <em>(In preparation)</em><br>
   <span style="color:#555"> **Navonil Deb**<sup>*</sup>, Younghoon Kim<sup>*</sup>, Amy Kuceyeski, Sumanta Basu</span>  
