@@ -15,7 +15,7 @@ My research primarily focuses on developing statistical methodologies for analyz
 * Scalable Optimization Methods for High-Dimensional Problems
 * Forecasting Counterfactuals in Panel Data
 
-I also enjoy pursuing interdisciplinary research on building predictive models for the body weight of endangered rhinoceroses using morphological data in small-sample settings, in collaboration with [Prof. Robin Radcliffe](https://wildlife.cornell.edu/people/robin-radcliffe) at [College of Veterenary Medicine, Cornell University](https://www.vet.cornell.edu/). My research and publications can be found [here](https://navonildeb.github.io//publications/).
+I also enjoy pursuing collaboration with domain experts in other disciplines. In collaboration with [Prof. Robin Radcliffe](https://wildlife.cornell.edu/people/robin-radcliffe) at [College of Veterenary Medicine, Cornell University](https://www.vet.cornell.edu/), our interdisiplinary research builds predictive models for the body weight of endangered rhinoceroses using morphological and demographic data in small-sample settings. My research and publications can be found [here](https://navonildeb.github.io//publications/).
 
 I am actively looking for academic jobs in **Fall 2025**, and happy to connect if you are aware of any openings.
 
