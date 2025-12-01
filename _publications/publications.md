@@ -43,7 +43,6 @@ hide_title: false
   <span style="color:#555">
     <strong>Navonil Deb</strong><sup>&#42;</sup>,
     Younghoon Kim<sup>&#42;</sup>,
-    Amy Kuceyeski,
     Sumanta Basu
   </span><br>
   <small>(<sup>&#42;</sup> equal contribution)</small><br>
