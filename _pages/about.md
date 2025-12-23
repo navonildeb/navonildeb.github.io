@@ -17,8 +17,8 @@ My research primarily focuses on developing statistical methodologies for analyz
 
 I also enjoy pursuing collaboration with domain experts in other disciplines. Currently I am collaborating with [Prof. Robin Radcliffe](https://wildlife.cornell.edu/people/robin-radcliffe) at [College of Veterenary Medicine, Cornell University](https://www.vet.cornell.edu/) and [Prof. Amy Kuceyeski](https://gradschool.weill.cornell.edu/faculty/amy-kuceyeski) at [Department of Radiology](https://radiology.weill.cornell.edu/) at [Weill Cornell Medicine](https://weill.cornell.edu/). My research and publications can be found [here](https://navonildeb.github.io//publications/).
 
-<span class="job-market-note">
-I am on the academic job market in Fall 2025 and expect to be available to start in Fall 2026. I would be happy to connect if you are aware of any openings.
+<span style="background-color: rgba(107,114,128,0.12); padding: 0.2em 0.4em;">
+I am on the academic job market in <strong>Fall 2025</strong> and expect to be available to start in <strong>Fall 2026</strong>. I would be happy to connect if you are aware of any openings.
 </span>
 
 **Email:** nd329[at]cornell[dot]edu
