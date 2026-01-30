@@ -50,24 +50,24 @@ hide_title: false
   <div style="display:flex; gap:12px; align-items:flex-start;">
 
   <!-- Runtime plot: make it visually larger -->
-  <img src="/images/focus/runtime_DGP2.png"
-       style="
-         width:49%;
-         height:auto;
-         border-radius:6px;
-         transform:scale(1.15);
-         transform-origin:top left;
-       ">
-
-  <!-- HeartSteps plot: shift slightly to the right -->
-  <img src="/images/focus/heartsteps_focus_mssa_diff.png"
-       style="
-         width:49%;
-         height:auto;
-         border-radius:6px;
-         margin-left:10px;
-       ">
-</div>
+    <img src="/images/focus/runtime_DGP2.png"
+         style="
+           width:49%;
+           height:auto;
+           border-radius:6px;
+           transform:scale(1.15);
+           transform-origin:top left;
+         ">
+  
+    <!-- HeartSteps plot: shift slightly to the right -->
+    <img src="/images/focus/heartsteps_focus_mssa_diff.png"
+         style="
+           width:49%;
+           height:auto;
+           border-radius:6px;
+           margin-left:10px;
+         ">
+  </div>
 
 ## Working papers
 
