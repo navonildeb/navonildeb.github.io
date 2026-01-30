@@ -28,7 +28,7 @@ hide_title: false
 
 * <span style="font-weight:bold">Counterfactual forecasting for panel data (2025)</span><br>
   <span style="color:#555"> **Navonil Deb**, Raaz Dwivedi, Sumanta Basu</span><br>
-  <em>(Under review at AISTATS)</em><br>
+  <em>(Submitted to ICML)</em><br>
   <small>
   TL;DR – In mobile health studies, subjects’ responses depend not only on treatments but also on their past behavior. We design a flexible forecasting method that leverages these temporal patterns in latent factors to accurately forecast unobserved (counterfactual) outcomes in panel data.
   </small><br><br>
