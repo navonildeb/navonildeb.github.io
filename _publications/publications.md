@@ -62,9 +62,10 @@ hide_title: false
   <a href="/files/focus_poster.pdf"><img src="https://img.shields.io/badge/Poster-FF69B4?logo=adobeacrobatreader&logoColor=white" alt="Poster" /></a>
   <div style="max-width:900px; margin:16px auto 28px auto;">
 
-  {% raw %}
+  % raw %}
 <div style="max-width:900px; margin:16px auto 28px auto;">
 
+  <!-- Row 1 -->
   <div style="display:flex; gap:12px; align-items:flex-start; margin-bottom:12px;">
     <img src="/images/focus/DGP1_h1.png"
          style="width:49%; height:auto; border-radius:6px;">
@@ -72,18 +73,14 @@ hide_title: false
          style="width:49%; height:auto; border-radius:6px;">
   </div>
 
-  <div style="display:flex; gap:12px; align-items:flex-start;">
+  <!-- Row 2: single wide runtime plot -->
+  <div style="display:flex; justify-content:center;">
     <img src="/images/focus/runtime_DGP2.png"
-         style="width:49%; height:auto; border-radius:6px;
-                transform:scale(1.12); transform-origin:top left;">
-    <img src="/images/focus/heartsteps_focus_mssa_diff.png"
-         style="width:49%; height:auto; border-radius:6px;
-                margin-left:10px;">
+         style="width:65%; height:auto; border-radius:6px;">
   </div>
 
 </div>
 {% endraw %}
-<div style="height:24px;"></div>
 
 ## Working papers
 
