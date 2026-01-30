@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Navonil Deb"
 title_separator          : "-"
-minimal_mistakes_skin    : "auto"
+minimal_mistakes_skin: auto
 name                     : " "
 search                   : true
 description              : "Navonil Deb's Webpage"
