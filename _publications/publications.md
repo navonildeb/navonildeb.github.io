@@ -36,6 +36,20 @@ hide_title: false
   <a href="https://github.com/navonildeb/FOCUS"><img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=white" alt="Code Repository" /></a>
   <a href="/files/focus_slides.pdf"><img src="https://img.shields.io/badge/Slides-0A66C2?logo=microsoftpowerpoint&logoColor=white" alt="Slides" /></a>
   <a href="/files/focus_poster.pdf"><img src="https://img.shields.io/badge/Poster-FF69B4?logo=adobeacrobatreader&logoColor=white" alt="Poster" /></a>
+  <div style="
+  display:grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap:12px;
+  margin:12px 0 28px 0;
+">
+  <!-- Row 1 -->
+  <img src="/images/focus/DGP1_h1.png" style="width:100%; border-radius:6px;">
+  <img src="/images/focus/scatter_plot_DGP1_T256_h1.png" style="width:100%; border-radius:6px;">
+
+  <!-- Row 2 -->
+  <img src="/images/focus/runtime_DGP2.png" style="width:100%; border-radius:6px;">
+  <img src="/images/focus/heartsteps_focus_mssa_diff.png" style="width:100%; border-radius:6px;">
+</div>
 
 ## Working papers
 
