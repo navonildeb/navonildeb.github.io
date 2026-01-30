@@ -62,21 +62,21 @@ hide_title: false
   <a href="/files/focus_poster.pdf"><img src="https://img.shields.io/badge/Poster-FF69B4?logo=adobeacrobatreader&logoColor=white" alt="Poster" /></a>
   <div style="max-width:900px; margin:16px auto 28px auto;">
 
-  % raw %}
-<div style="max-width:900px; margin:16px auto 28px auto;">
+{% raw %}
+<div style="max-width:800px; margin:14px auto 24px auto;">
 
   <!-- Row 1 -->
   <div style="display:flex; gap:12px; align-items:flex-start; margin-bottom:12px;">
     <img src="/images/focus/DGP1_h1.png"
-         style="width:49%; height:auto; border-radius:6px;">
+         style="width:46%; height:auto; border-radius:6px;">
     <img src="/images/focus/scatter_plot_DGP1_T256_h1.png"
-         style="width:49%; height:auto; border-radius:6px;">
+         style="width:46%; height:auto; border-radius:6px;">
   </div>
 
   <!-- Row 2: single wide runtime plot -->
   <div style="display:flex; justify-content:center;">
     <img src="/images/focus/runtime_DGP2.png"
-         style="width:65%; height:auto; border-radius:6px;">
+         style="width:58%; height:auto; border-radius:6px;">
   </div>
 
 </div>
