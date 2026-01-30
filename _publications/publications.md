@@ -24,31 +24,23 @@ hide_title: false
   <a href="https://doi.org/10.48550/arXiv.2401.11128"><img src="https://img.shields.io/badge/arXiv-b31b1b?logo=arxiv&logoColor=white" alt="arXiv" /></a>
   <a href="https://github.com/navonildeb/cxreg"><img src="https://img.shields.io/badge/R%20Package-276DC3?logo=r&logoColor=white" alt="R Package" /></a>
   <a href="/files/sspm_slides.pdf"><img src="https://img.shields.io/badge/Slides-0A66C2?logo=microsoftpowerpoint&logoColor=white" alt="Slides" /></a>
+
 {% raw %}
 <div style="
-  max-width:1000px;
-  margin:16px auto 28px auto;
+  max-width:900px;
+  margin:16px auto 18px auto;
   display:grid;
   grid-template-columns: repeat(2, 1fr);
   gap:12px;
 ">
-
-  <!-- Row 1 -->
-  <img src="/images/sspm/runtime.png"
-       style="width:100%; height:auto; border-radius:6px;">
-  <img src="/images/sspm/rmse.png"
-       style="width:100%; height:auto; border-radius:6px;">
-
-  <!-- Row 2 -->
-  <img src="/images/sspm/scaling.png"
-       style="width:100%; height:auto; border-radius:6px;">
-  <img src="/images/sspm/hcp.png"
-       style="width:100%; height:auto; border-radius:6px;">
-
+  <img src="/images/sspm/runtime.png" style="width:100%; height:auto; border-radius:6px;">
+  <img src="/images/sspm/rmse.png" style="width:100%; height:auto; border-radius:6px;">
+  <img src="/images/sspm/scaling.png" style="width:100%; height:auto; border-radius:6px;">
+  <img src="/images/sspm/hcp.png" style="width:100%; height:auto; border-radius:6px;">
 </div>
 {% endraw %}
-<div style="height:24px;"></div>
 
+<div style="height:24px;"></div>
 
 * <span style="font-weight:bold">Counterfactual forecasting for panel data (2025)</span><br>
   <span style="color:#555"> **Navonil Deb**, Raaz Dwivedi, Sumanta Basu</span><br>
@@ -60,27 +52,23 @@ hide_title: false
   <a href="https://github.com/navonildeb/FOCUS"><img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=white" alt="Code Repository" /></a>
   <a href="/files/focus_slides.pdf"><img src="https://img.shields.io/badge/Slides-0A66C2?logo=microsoftpowerpoint&logoColor=white" alt="Slides" /></a>
   <a href="/files/focus_poster.pdf"><img src="https://img.shields.io/badge/Poster-FF69B4?logo=adobeacrobatreader&logoColor=white" alt="Poster" /></a>
-  <div style="max-width:900px; margin:16px auto 28px auto;">
 
 {% raw %}
-<div style="max-width:800px; margin:14px auto 24px auto;">
+<div style="max-width:780px; margin:14px auto 18px auto;">
 
-  <!-- Row 1 -->
   <div style="display:flex; gap:12px; align-items:flex-start; margin-bottom:12px;">
-    <img src="/images/focus/DGP1_h1.png"
-         style="width:46%; height:auto; border-radius:6px;">
-    <img src="/images/focus/scatter_plot_DGP1_T256_h1.png"
-         style="width:46%; height:auto; border-radius:6px;">
+    <img src="/images/focus/DGP1_h1.png" style="width:46%; height:auto; border-radius:6px;">
+    <img src="/images/focus/scatter_plot_DGP1_T256_h1.png" style="width:46%; height:auto; border-radius:6px;">
   </div>
 
-  <!-- Row 2: single wide runtime plot -->
   <div style="display:flex; justify-content:center;">
-    <img src="/images/focus/runtime_DGP2.png"
-         style="width:58%; height:auto; border-radius:6px;">
+    <img src="/images/focus/runtime_DGP2.png" style="width:58%; height:auto; border-radius:6px;">
   </div>
 
 </div>
 {% endraw %}
+
+<div style="height:24px;"></div>
 
 ## Working papers
 
@@ -110,7 +98,8 @@ hide_title: false
   <a href="https://github.com/navonildeb/MDP-and-QOL-in-Cancer-Treatment">
     <img src="https://img.shields.io/badge/Code-MDP--QOL-181717?logo=github&logoColor=white" alt="Code" />
   </a>
-  <div style="height:24px;"></div>
+
+<div style="height:24px;"></div>
 
 * <span style="font-weight:bold">Some Contributions to Inference and Model Selection in High Dimensional Statistics (2021)</span><br>
   <span style="color:#555"><strong>Navonil Deb</strong>, Arijit Chakrabarti</span><br>
