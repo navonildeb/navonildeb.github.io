@@ -25,25 +25,25 @@ hide_title: false
   <a href="https://github.com/navonildeb/cxreg"><img src="https://img.shields.io/badge/R%20Package-276DC3?logo=r&logoColor=white" alt="R Package" /></a>
   <a href="/files/sspm_slides.pdf"><img src="https://img.shields.io/badge/Slides-0A66C2?logo=microsoftpowerpoint&logoColor=white" alt="Slides" /></a>
 {% raw %}
-<div style="max-width:1000px; margin:16px auto 28px auto;">
+<div style="
+  max-width:1000px;
+  margin:16px auto 28px auto;
+  display:grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap:12px;
+">
 
-  <!-- Row 1: three figures -->
-  <div style="display:flex; gap:12px; align-items:flex-start; margin-bottom:12px;">
-    <img src="/images/sspm/runtime.png"
-         style="width:32%; height:auto; border-radius:6px;">
-    <img src="/images/sspm/rmse.png"
-         style="width:32%; height:auto; border-radius:6px;">
-    <img src="/images/sspm/auroc.png"
-         style="width:32%; height:auto; border-radius:6px;">
-  </div>
+  <!-- Row 1 -->
+  <img src="/images/sspm/runtime.png"
+       style="width:100%; height:auto; border-radius:6px;">
+  <img src="/images/sspm/rmse.png"
+       style="width:100%; height:auto; border-radius:6px;">
 
-  <!-- Row 2: two figures -->
-  <div style="display:flex; gap:12px; align-items:flex-start;">
-    <img src="/images/sspm/scaling.png"
-         style="width:49%; height:auto; border-radius:6px;">
-    <img src="/images/sspm/hcp.png"
-         style="width:49%; height:auto; border-radius:6px;">
-  </div>
+  <!-- Row 2 -->
+  <img src="/images/sspm/scaling.png"
+       style="width:100%; height:auto; border-radius:6px;">
+  <img src="/images/sspm/hcp.png"
+       style="width:100%; height:auto; border-radius:6px;">
 
 </div>
 {% endraw %}
