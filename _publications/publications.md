@@ -47,6 +47,8 @@ hide_title: false
 
 </div>
 {% endraw %}
+<div style="height:24px;"></div>
+
 
 * <span style="font-weight:bold">Counterfactual forecasting for panel data (2025)</span><br>
   <span style="color:#555"> **Navonil Deb**, Raaz Dwivedi, Sumanta Basu</span><br>
@@ -81,6 +83,7 @@ hide_title: false
 
 </div>
 {% endraw %}
+<div style="height:24px;"></div>
 
 ## Working papers
 
@@ -95,7 +98,7 @@ hide_title: false
   TL;DR – Developed entry-wise confidence intervals for the entries of sparse spectral precision matrices of a stationary time series in high dimensions, enabling recovery of conditional graphs at a fixed frequency.
   </small><br><br>
 
-
+<div style="height:24px;"></div>
 
 ## Selected Earlier Works
 
@@ -110,6 +113,7 @@ hide_title: false
   <a href="https://github.com/navonildeb/MDP-and-QOL-in-Cancer-Treatment">
     <img src="https://img.shields.io/badge/Code-MDP--QOL-181717?logo=github&logoColor=white" alt="Code" />
   </a>
+  <div style="height:24px;"></div>
 
 * <span style="font-weight:bold">Some Contributions to Inference and Model Selection in High Dimensional Statistics (2021)</span><br>
   <span style="color:#555"><strong>Navonil Deb</strong>, Arijit Chakrabarti</span><br>
