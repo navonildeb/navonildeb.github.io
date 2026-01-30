@@ -47,9 +47,9 @@ hide_title: false
   </div>
 
   <!-- Row 2 -->
-  <div style="display:flex; gap:12px; align-items:flex-start;">
+  <div style="display:flex; gap:18px; align-items:flex-start;">
     <img src="/images/focus/runtime_DGP2.png"
-         style="width:49%; height:auto; border-radius:6px; object-fit:contain;">
+         style="width:49%; height:auto; border-radius:12px; object-fit:contain;">
     <img src="/images/focus/heartsteps_focus_mssa_diff.png"
          style="width:49%; height:auto; border-radius:6px; object-fit:contain;">
   </div>
