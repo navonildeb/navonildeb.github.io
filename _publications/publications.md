@@ -40,15 +40,20 @@ hide_title: false
   display:grid;
   grid-template-columns: repeat(2, 1fr);
   gap:12px;
-  margin:12px 0 28px 0;
+  max-width:900px;
+  margin:16px auto 28px auto;
 ">
-  <!-- Row 1 -->
-  <img src="/images/focus/DGP1_h1.png" style="width:100%; border-radius:6px;">
-  <img src="/images/focus/scatter_plot_DGP1_T256_h1.png" style="width:100%; border-radius:6px;">
+  <img src="/images/focus/DGP1_h1.png"
+       style="max-width:100%; height:auto; border-radius:6px;">
 
-  <!-- Row 2 -->
-  <img src="/images/focus/runtime_DGP2.png" style="width:100%; border-radius:6px;">
-  <img src="/images/focus/heartsteps_focus_mssa_diff.png" style="width:100%; border-radius:6px;">
+  <img src="/images/focus/scatter_plot_DGP1_T256_h1.png"
+       style="max-width:100%; height:auto; border-radius:6px;">
+
+  <img src="/images/focus/runtime_DGP2.png"
+       style="max-width:100%; height:auto; border-radius:6px;">
+
+  <img src="/images/focus/heartsteps_focus_mssa_diff.png"
+       style="max-width:100%; height:auto; border-radius:6px;">
 </div>
 
 ## Working papers
