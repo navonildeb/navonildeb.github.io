@@ -17,7 +17,6 @@ hide_title: false
 
 * <span style="font-weight:bold">Regularized estimation of sparse spectral precision matrices (2024)</span><br>
   <span style="color:#555"> **Navonil Deb**, Amy Kuceyeski, Sumanta Basu</span><br>
-  <em>(Submitted to Journal of Machine Learning Research)</em><br>
   <small>
   TL;DR – In multivariate time series, conditional dependence structure among different components are captured by spectral precision matrices. Instances in neuroscience capture the functional connectivity of fMRI brain rhythms within certain frequency bands and generated from different brain regions. This work develops an adaptive method to estimate spectral precision matrices at any frequency. The proposed method adjusts for heterogeneity in scale across time-series components. We provide theoretical error guarantees in high dimensions, and introduce a fast, scalable coordinate-descent algorithm tailored to the complex-valued setting.
   </small><br><br>
@@ -44,7 +43,6 @@ hide_title: false
 
 * <span style="font-weight:bold">Counterfactual forecasting for panel data (2025)</span><br>
   <span style="color:#555"> **Navonil Deb**, Raaz Dwivedi, Sumanta Basu</span><br>
-  <em>(Submitted to ICML)</em><br>
   <small>
   TL;DR – In mobile health studies, subjects’ responses depend not only on treatments but also on their past behavior. We design a flexible forecasting method that leverages these temporal patterns in latent factors to accurately forecast unobserved (counterfactual) outcomes in panel data.
   </small><br><br>
