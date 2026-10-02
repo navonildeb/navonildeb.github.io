@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow in the Division of Intramural Research at the [National Library of Medicine](https://www.nlm.nih.gov/research/index.html) at National Institutes of Health (NIH). My current research focuses on causal inference for longitudinal data, particularly in large-scale observational studies using multimodal electronic health records (EHR).
+I am a postdoctoral fellow in the [Division of Intramural Research](https://www.nlm.nih.gov/research/index.html) at the National Library of Medicine at National Institutes of Health (NIH). My current research focuses on causal inference for longitudinal data, particularly in large-scale observational studies using multimodal electronic health records (EHR).
 
 I earned my Ph.D. in Statistics from the [Department of Statistics and Data Science](https://stat.cornell.edu/) at [Cornell University](https://bowers.cornell.edu/), where I was fortunate to be advised by [Sumanta Basu](https://sumbose.stat.cornell.edu/). Previously, I completed my bachelor’s and master’s degrees in Statistics at the [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/).
 
