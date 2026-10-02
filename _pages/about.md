@@ -1,21 +1,17 @@
 ---
 permalink: /
-title: "About me"
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a fifth-year Ph.D. student in the Department of [Statistics and Data Science](https://stat.cornell.edu/) at [Bowers School of Computating and Information Science, Cornell University](https://bowers.cornell.edu/). I work in [Statistical Modeling of Compex Systems Lab](https://smocs.stat.cornell.edu/) where I am fortunate to be advised by [Prof. Sumanta Basu](https://sumbose.stat.cornell.edu/). I also closely collaborate with [Prof. Raaz Dwivedi](https://raazdwivedi.github.io/) at [Cornell Tech](https://tech.cornell.edu/). Prior to my doctoral studies, I completed my Bachelor's and Master's degrees in Statistics at [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/).
+I am a postdoctoral fellow in the Division of Intramural Research at the [National Library of Medicine](https://www.nlm.nih.gov/research/index.html) at National Institutes of Health (NIH). My current research focuses on causal inference for longitudinal data, particularly in large-scale observational studies using multimodal electronic health records (EHR).
 
-My research primarily focuses on developing statistical methodologies for analyzing complex, high-dimensional and dependent data. Such data arising in neuroscience, finance, policy evaluation, and many other domains exhibit intricate temporal and cross-sectional dependencies that challenge traditional methods for estimation, inference, and forecasting. I aim to make these dependencies learnable through statistically principled methodologies with theoretical guarantees and by building scalable algorithms. Broadly, my work bridges **Time-sereis Analysis**, **High-dimensional Statistics**, and **Causal Inference**, with the following specific directions:
+I earned my Ph.D. in Statistics from the [Department of Statistics and Data Science](https://stat.cornell.edu/) at [Cornell University](https://bowers.cornell.edu/), where I was fortunate to be advised by [Sumanta Basu](https://sumbose.stat.cornell.edu/). Previously, I completed my bachelor’s and master’s degrees in Statistics at the [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/).
 
-* Graphical Modeling in Frequency Domain
-* Scalable Optimization Methods for High-Dimensional Problems
-* Forecasting Counterfactuals in Panel Data
-
-I also enjoy pursuing collaboration with domain experts in other disciplines. Currently I am collaborating with [Prof. Robin Radcliffe](https://wildlife.cornell.edu/people/robin-radcliffe) at [College of Veterenary Medicine, Cornell University](https://www.vet.cornell.edu/) and [Prof. Amy Kuceyeski](https://gradschool.weill.cornell.edu/faculty/amy-kuceyeski) at [Department of Radiology](https://radiology.weill.cornell.edu/) at [Weill Cornell Medicine](https://weill.cornell.edu/). My research and publications can be found [here](https://navonildeb.github.io//publications/).
+My doctoral research focused on developing statistically principled methods and scalable algorithms for high-dimensional data with temporal and cross-sectional dependencies, emphasizing theoretical guarantees and with applications in neuroscience, finance and clinical domains. Broadly, my work bridges **time-series analysis**, **high-dimensional statistics**, and **causal inference**.
 
 <!---
 <span style="background-color: rgba(107,114,128,0.12); padding: 0.2em 0.4em;">
