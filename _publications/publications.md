@@ -1,3 +1,11 @@
+---
+layout: single
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+
 ## Pre-prints
 
 * <span style="font-weight:bold">Regularized estimation of sparse spectral precision matrices (2024)</span><br>
