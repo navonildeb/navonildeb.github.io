@@ -6,13 +6,6 @@ author_profile: true
 hide_title: false
 ---
 
-## Research Interests
-
-* Time Series Analysis
-* Spectral-Domain Graphical Modeling
-* Scalable Optimization Methods for High-Dimensional Problems
-* Forecasting Counterfactuals in Panel Data
-
 ## Pre-prints
 
 * <span style="font-weight:bold">Counterfactual forecasting for panel data (2025)</span><br>
