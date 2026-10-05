@@ -83,6 +83,23 @@ hide_title: false
   <small>
   TL;DR – Inference of time series graphical models in spectral domain are challenging in high dimensions due to lack of expressions for asymptotic covariance and lack of full-likelihood based method.  We develop entry-wise confidence intervals and hypothesis tests for the entries of spectral precision matrices of a stationary time series in high dimensions, enabling recovery of conditional graphs at a fixed frequency.
   </small><br><br>
+<a href="
+https://doi.org/10.48550/arXiv.2606.07986"><img src="https://img.shields.io/badge/arXiv-b31b1b?logo=arxiv&logoColor=white" alt="arXiv" /></a>
+
+{% raw %}
+<div style="
+  max-width:900px;
+  margin:16px auto 18px auto;
+  display:grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap:12px;
+">
+  <img src="/images/sspm/runtime.png" style="width:100%; height:auto; border-radius:6px;">
+  <img src="/images/sspm/rmse.png" style="width:100%; height:auto; border-radius:6px;">
+  <img src="/images/sspm/scaling.png" style="width:100%; height:auto; border-radius:6px;">
+  <img src="/images/sspm/hcp.png" style="width:100%; height:auto; border-radius:6px;">
+</div>
+{% endraw %}
 
 <div style="height:24px;"></div>
 
